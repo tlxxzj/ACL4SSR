@@ -5,5 +5,8 @@ payload:
 
   # MyList && Other
   - DOMAIN-SUFFIX,kodekloud.com
+  - DOMAIN-SUFFIX,examslocal.com
+  - DOMAIN-SUFFIX,linuxfoundation.org
+  
   
  
