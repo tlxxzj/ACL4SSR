@@ -8,6 +8,8 @@ payload:
   - DOMAIN-SUFFIX,examslocal.com
   - DOMAIN-SUFFIX,linuxfoundation.org
   - DOMAIN-SUFFIX,kubernetes.io
+  - DOMAIN-SUFFIX,azureedge.net
+
   
   
  
