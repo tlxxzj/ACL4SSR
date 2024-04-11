@@ -42,4 +42,5 @@ payload:
   - DOMAIN-SUFFIX,nextjs.org
   - DOMAIN-SUFFIX,vercel.com
   - DOMAIN-SUFFIX,freecodecamp.org
+  - DOMAIN-SUFFIX,codepen.io
   
