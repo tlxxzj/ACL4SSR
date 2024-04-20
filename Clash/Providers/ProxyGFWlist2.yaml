@@ -43,4 +43,6 @@ payload:
   - DOMAIN-SUFFIX,vercel.com
   - DOMAIN-SUFFIX,freecodecamp.org
   - DOMAIN-SUFFIX,codepen.io
+  - DOMAIN-SUFFIX,temu.com
+  
   
