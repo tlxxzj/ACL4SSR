@@ -47,5 +47,8 @@ payload:
   - DOMAIN-SUFFIX,shein.com
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,epicgames.com
+  - DOMAIN-SUFFIX,battleye.b-cdn.net
+  - DOMAIN-SUFFIX,cdn.battleye.com
+  
   
   
