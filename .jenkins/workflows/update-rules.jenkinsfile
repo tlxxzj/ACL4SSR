@@ -1,0 +1,17 @@
+pipeline {
+    agent {
+        label '124.156.165.107'
+    }
+
+    options {
+        disableConcurrentBuilds()
+    }
+
+    stages {
+        stage('Copy') {
+            steps {
+                sh 'cp -fr Clash/* /www/wwwroot/fly.dinglang.net/Clash/'
+            }
+        }
+    }
+}

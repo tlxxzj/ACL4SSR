@@ -1,0 +1,56 @@
+
+   
+payload:
+  # 代理列表
+
+  # MyList && Other
+  - DOMAIN-SUFFIX,kodekloud.com
+  - DOMAIN-SUFFIX,examslocal.com
+  - DOMAIN-SUFFIX,linuxfoundation.org
+  - DOMAIN-SUFFIX,kubernetes.io
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,etsy.com
+  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,pexpay.com
+#  - DOMAIN-SUFFIX,okx.com
+#  - DOMAIN-SUFFIX,okex.me
+  - DOMAIN-SUFFIX,bnbstatic.com
+  - DOMAIN-SUFFIX,binance.cloud
+  - DOMAIN-SUFFIX,binance.org
+  - DOMAIN-SUFFIX,rubygems.org
+  - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN-SUFFIX,heyuedi.com
+  - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,krgirls.net
+  - DOMAIN-SUFFIX,infura.io
+  - DOMAIN-SUFFIX,trustwallet.com
+  - DOMAIN-SUFFIX,sstatic.net
+  - DOMAIN-SUFFIX,jenkins-x.io
+  - DOMAIN-SUFFIX,sqlalchemy.org
+  - DOMAIN-SUFFIX,palletsprojects.com
+  - DOMAIN-SUFFIX,stackexchange.com
+  - DOMAIN-SUFFIX,figma.com
+  - DOMAIN-SUFFIX,brew.sh
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,destinyitemmanager.com
+  - DOMAIN-SUFFIX,bungie.net
+  - DOMAIN-SUFFIX,linkedin.com
+  - DOMAIN-SUFFIX,linkedin.cn
+  - DOMAIN-SUFFIX,licdn.com
+  - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,nextjs.org
+  - DOMAIN-SUFFIX,vercel.com
+  - DOMAIN-SUFFIX,freecodecamp.org
+  - DOMAIN-SUFFIX,codepen.io
+  - DOMAIN-SUFFIX,temu.com
+  - DOMAIN-SUFFIX,shein.com
+  - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,epicgames.com
+  - DOMAIN-SUFFIX,battleye.b-cdn.net
+  - DOMAIN-SUFFIX,cdn.battleye.com
+  - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+  - DOMAIN-SUFFIX,docker.io
+  
+  
+  
