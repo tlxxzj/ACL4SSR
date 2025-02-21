@@ -51,6 +51,8 @@ payload:
   - DOMAIN-SUFFIX,cdn.battleye.com
   - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
   - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,x.com
   
   
   
